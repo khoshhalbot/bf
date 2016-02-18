@@ -239,7 +239,8 @@ function create_config( )
     "time",
     "feedback",
     "inhelper",
-    "insudo"
+    "insudo",
+    "inbot"
     },
     sudo_users = {52417364,185963103,114507663,95205943},--Sudo users
     disabled_channels = {},
